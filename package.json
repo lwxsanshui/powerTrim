@@ -1,0 +1,13 @@
+{
+  "name": "powerTrim",
+  "version": "1.0.0",
+  "dependencies": {
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "name": "powerTrim",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lwxsanshui/powerTrim.git"
+  }
+}
