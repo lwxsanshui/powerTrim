@@ -1,13 +1,24 @@
 {
-  "name": "powerTrim",
+  "name": "powertrim",
   "version": "1.0.0",
-  "dependencies": {
-  },
+  "dependencies": {},
   "license": "MIT",
   "main": "index.js",
-  "name": "powerTrim",
   "repository": {
     "type": "git",
     "url": "git://github.com/lwxsanshui/powerTrim.git"
-  }
+  },
+  "description": "更强大的trim方法，移除字符串两端的空格和其他零宽字符",
+  "bugs": {
+    "url": "https://github.com/lwxsanshui/powerTrim/issues"
+  },
+  "homepage": "https://github.com/lwxsanshui/powerTrim#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "trim",
+    "powerTrim"
+  ],
+  "author": "chuxia"
 }
